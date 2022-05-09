@@ -1,0 +1,64 @@
+/* SEU CÓDIGO AQUI */
+.background {
+    padding: 172px;
+    min-height: 70vh;
+    min-width: 80%;
+    background-image: url(../assets/fundo.jpg);
+    background-position: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.dark-background {
+    background-color: #212121;
+    padding: 192px 0;
+}
+.top-nav {
+    padding: 16px 16px;
+    min-height: 56px;
+    background-color: var(--strawberry);
+    display: flex;
+    justify-content: space-between;
+    color: var(--white);
+}
+.primary-button {
+    background-color: var(--strawberry);
+    border: 2px solid transparent;
+    border-radius: 4px;
+    padding: 16px 24px;
+    color: var(--white);
+}
+.primary-button:hover {
+    background-color: rgba(255, 255, 255, 0.089);
+    border: 2px solid var(--strawberry);
+    transition-delay: calc(00.1s);
+}
+#quemSomos {
+    padding: 192px 0;
+}
+.padding-fix {
+    padding: 192px 0;
+}
+.gallery {
+    padding: 16px 0;
+}
+.gallery img {
+    min-width: 352px;
+    margin-bottom: 24px;
+}
+footer {
+    padding: 100px 0 0 0;
+    background-color: var(--gray3);
+}
+.social {
+    display: flex;
+}
+.social li a {
+    color: var(--strawberry);
+}
+ul li {
+    margin: 8px;
+    list-style: none;
+}
+/* SEU CÓDIGO AQUI */

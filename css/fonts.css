@@ -1,0 +1,42 @@
+body, html {
+    font-family: Roboto, sans-serif;
+}
+.nav-link {
+    padding: 0 24px !important;
+    font-size: 18px;
+    color: var(--gray3) !important;
+}
+.nav-link:hover {
+    color: var(--strawberry) !important;
+}
+h2 {
+    font-size: 14px;
+    color: var(--gray2);
+    font-weight: bold;
+}
+h1 {
+    font-size: 48px;
+    color: var(--white) ;
+    font-weight: bold;
+}
+h3 {
+    font-size: 36px;
+    font-weight: bold;
+}
+h4 {
+    color: var(--white);
+    font-size: 24px;
+}
+.white-font {
+    color: var(--white);
+}
+p {
+    font-size: 16px;
+}
+.white-link {
+    color: var(--white);
+    text-decoration: none;
+}
+.white-link:hover {
+    color: var(--strawberry);
+}

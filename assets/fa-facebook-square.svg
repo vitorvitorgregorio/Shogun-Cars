@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="fa-facebook-square" transform="translate(-401 -3391)">
+    <g id="Retângulo_1526" data-name="Retângulo 1526" transform="translate(401 3391)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="Icon_awesome-facebook-square" data-name="Icon awesome-facebook-square" d="M14.286,2.25H1.714A1.714,1.714,0,0,0,0,3.964V16.536A1.714,1.714,0,0,0,1.714,18.25h4.9V12.81H4.366V10.25h2.25V8.3A3.125,3.125,0,0,1,9.961,4.853a13.631,13.631,0,0,1,1.983.173V7.2H10.828A1.28,1.28,0,0,0,9.384,8.587V10.25H11.84l-.393,2.56H9.384v5.44h4.9A1.714,1.714,0,0,0,16,16.536V3.964A1.714,1.714,0,0,0,14.286,2.25Z" transform="translate(405 3392.75)" fill="#212121"/>
+  </g>
+</svg>
